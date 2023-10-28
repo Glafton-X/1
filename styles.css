@@ -41,7 +41,7 @@ main {
 
 #hero {
     background-image: url('Screenshot_2023-07-03-19-07-09-538-edit_com.camerasideas.trimmer[26].jpg');
-    background-size: cover;
+    background-size: fit;
     background-position: center;
     color: #fff;
     text-align: center;
